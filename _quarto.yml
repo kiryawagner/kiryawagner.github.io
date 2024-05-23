@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "kiryawagner.github.io"
+  title: "Kirya Wagner"
   navbar:
     left:
       - href: index.qmd
@@ -12,8 +12,10 @@ website:
 
 format:
   html:
-    theme: style.scss
-    mainfont: Nunito
+    theme: 
+    - sandstone
+    - styles.scss
+    mainfont: Rokkitt
     css: styles.css
     toc: true
     page-layout: full
