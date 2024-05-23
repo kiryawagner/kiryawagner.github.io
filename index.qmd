@@ -1,9 +1,35 @@
 ---
-title: "kiryawagner.github.io"
+title: "Kirya Wagner"
+about:
+  id: hero-heading
+  template: trestles
+  image: IMG_8637.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com/
 ---
 
-```{r}
-1 + 1
-```
+:::{#hero-heading}
 
-makingchanges
+## Hello!
+My name is Kirya Wagner and I am a second-year student at UC Santa Barbara majoring in Environmental Studies. I love nature and traveling, and I'm starting to figure out what I want to do in life!
+
+## Education
+
+University of California, Santa Barbara | Santa Barbara, CA
+BS in Environmental Science | Sept 2023 - June 2026 | 
+GPA 3.65
+
+University of Waikato | Hamilton, NZ | June 2024 - November 2024 
+
+## Relevant Coursework
+
+**Science and Math:** General Chemistry • Introduction to Biology • Plant and Animal Physiology • Introduction to Ecology and Evolution • Introduction to microbes, plants, and animals • Biology and Chemistry Lab • Calculus • Statistics for Environmental Science.
+
+**Environmental Studies:**  Introduction to Environmental Studies • Critical Thinking and Reason in Environmental Studies • Low Carbon Environment
+
+:::
