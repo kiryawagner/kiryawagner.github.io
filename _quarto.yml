@@ -9,12 +9,12 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Progress.qmd
+      - Travel.qmd
 
 format:
   html:
-    theme: 
-    - sandstone
-    - styles.scss
+    theme: styles.scss
     mainfont: Rokkitt
     css: styles.css
     toc: true

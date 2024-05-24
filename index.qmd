@@ -5,9 +5,9 @@ about:
   template: trestles
   image: IMG_8637.jpg
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
+    - icon: gmail
+      text: Email
+      href: mailto:kwagner@ucsb.edu
     - icon: github
       text: Github
       href: https://github.com/
@@ -16,7 +16,7 @@ about:
 :::{#hero-heading}
 
 ## Hello!
-My name is Kirya Wagner and I am a second-year student at UC Santa Barbara majoring in Environmental Studies. I love nature and traveling, and I'm starting to figure out what I want to do in life!
+My name is Kirya Wagner and I am a second-year student at UC Santa Barbara majoring in Environmental Studies. My interests in the environment are currently broad, but I am leaning in the direction of environmental monitoring, conservation and ecology. 
 
 ## Education
 
@@ -25,11 +25,5 @@ BS in Environmental Science | Sept 2023 - June 2026 |
 GPA 3.65
 
 University of Waikato | Hamilton, NZ | June 2024 - November 2024 
-
-## Relevant Coursework
-
-**Science and Math:** General Chemistry • Introduction to Biology • Plant and Animal Physiology • Introduction to Ecology and Evolution • Introduction to microbes, plants, and animals • Biology and Chemistry Lab • Calculus • Statistics for Environmental Science.
-
-**Environmental Studies:**  Introduction to Environmental Studies • Critical Thinking and Reason in Environmental Studies • Low Carbon Environment
 
 :::
