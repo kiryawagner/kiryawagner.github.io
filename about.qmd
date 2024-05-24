@@ -8,12 +8,14 @@ title: "About"
 Hello! My name is Kirya and I'm from Corona, California. I have always been active and involved in various sports growing up (like tennis and soccer), but I have recently been getting into pickleball!
 
 My ideal free-time activity consists of anything outside, such as laying in the sun or doing something active with friends. I specifically love hiking and finding bodies of water to take a dip in. I also really enjoy camping, I usually go on road trips once or twice a year to get outside and enjoy nature a little. 
-![](travel/IMG_2309.jpg)
+
+![](travel/IMG_2309.jpg){width=50%}
 
 
 I have always loved cats, and I currently have three lovely kitties back home. They are so sweet and bring me a lot of joy. Recently, I have been introduced to the joys of songbirds! After working in wildlife rehabilitation at SBWCN and getting to learn about the vast species of birds in California, I have grown to appreciate them so much more. Therefore, my new future hobby is bird watching. 
 
-![](travel/IMG_1627.jpg)
+![](travel/IMG_1627.jpg){width=50%}
+
 
 
 

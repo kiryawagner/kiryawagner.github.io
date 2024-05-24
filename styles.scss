@@ -1,3 +1,21 @@
 /*-- scss:defaults --*/
 
 @import url('https://fonts.googleapis.com/css2?family=Rokkitt:ital,wght@0,100..900;1,100..900&display=swap');
+
+// Colors
+$blue:#5F9EA0
+$cream:#FAF0E6
+$darkgray:#696969
+$darkblue:#2F4F4F
+
+
+
+// Base Doc colors
+
+$navbar-bg: $blue; // navbar
+$navbar-fg: $cream; // navbar foreground elements
+$navbar-hl: $cream; // highlight color when hovering over navbar links
+$body-bg: $cream; // page background 
+$body-color: $darkgray; // page text 
+$footer-bg: $blue; // footer 
+$link-color: $darkgrey // hyperlinks 
