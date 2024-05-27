@@ -14,7 +14,9 @@ website:
 
 format:
   html:
-    theme: styles.scss
+    theme: 
+    - cosmo
+    - styles.scss
     mainfont: Rokkitt
     css: styles.css
     toc: true

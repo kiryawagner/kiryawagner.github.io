@@ -1,21 +1,22 @@
 /*-- scss:defaults --*/
 
-@import url('https://fonts.googleapis.com/css2?family=Rokkitt:ital,wght@0,100..900;1,100..900&display=swap');
+
+// Import fonts
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12&family=Quicksand:wght@300..700&family=Rokkitt:ital,wght@0,100..900;1,100..900&display=swap');
+
 
 // Colors
-$blue:#5F9EA0
-$cream:#FAF0E6
-$darkgray:#696969
-$darkblue:#2F4F4F
+$dark-cyan: #5F9EA0;
+$light-cyan: #ADD8E6;
+$cream: #FDF5E6;
+$gray: #696969;
+$gold: #DAA520;
 
-
-
-// Base Doc colors
-
-$navbar-bg: $blue; // navbar
+// Base document colors
+$navbar-bg: $dark-cyan; // navbar
 $navbar-fg: $cream; // navbar foreground elements
-$navbar-hl: $cream; // highlight color when hovering over navbar links
+$navbar-hl: $gold; // highlight color when hovering over navbar links
 $body-bg: $cream; // page background 
-$body-color: $darkgray; // page text 
-$footer-bg: $blue; // footer 
-$link-color: $darkgrey // hyperlinks 
+$body-color: $gray; // page text 
+$footer-bg: $dark-cyan; // footer 
+$link-color: $gold; // hyperlinks 

@@ -9,15 +9,15 @@ title: "School & Work"
 **Environmental Studies:** Introduction to Environmental Studies • Critical Thinking and Reason in Environmental Studies • Low Carbon Environment
 
 ## Skills 
--R studio / Data Analysis & Visualization 
+- R studio / Data Analysis & Visualization 
 
--HTML (web development)
+- HTML / web development
 
--Photoshop 
+- Photoshop 
 
--Microscope dissection
+- Microscope dissection
 
--CPR / First Aid
+- CPR / First Aid
 
 
 ## Research Projects
@@ -30,22 +30,12 @@ title: "School & Work"
 
 **Animal Care Assistant, SB Wildlife Care Network, Santa Barbara, CA** *March 2024 - Present*
 
--Keep track of strict feeding schedules ensuring all wildlife properly cared for.
-
--Maintain sanitary conditions throughout the facility by cleaning laundry, dishes, and equipment to establish a safe, hygienic environment for wildlife. 
-
--Properly administer medications, give subcutaneous fluids, and identify common pathogens through microscopes.
+Cared for and activity rehabilitated wildlife, specifically songbirds. This included keeping track of strict feeding schedules, maintaining sanitary conditions, identifying common pathogens through microscopes and administering medications. 
 
 **Camp Counselor, Hephatha Lutheran School, Anaheim Hills, CA** *June 2023 - August 2023*
 
--Collaborated effectively with other counselors and staff members to keep camp operations seamless.
-
--Committed to maintaining a safe and secure camp environment, by completing CPR and first aid training.
-
--Demonstrated effective organizational skills to plan and coordinate camp activities and meals, as well as clean and organize classrooms.
+Collaborated with other counselors and staff members to coordinate camp activities and meals as well as create a safe and secure environment.
 
 **Sales Floor Associate, Kohls, Corona, CA** *July 2022 - Sept 2022*
 
--Provided exceptional customer service by answering phone calls, assisting shoppers, and addressing issues promptly.
-
--Adapted between diverse roles such as cash register operations, customer service, and dressing room attendant.
+Provided excellent customer service by answering phone calls, assisting shoppers, and addressing issues promptly. Also, adapted between diverse roles such as cashier, customer service, and dressing room attendant.
